@@ -1,53 +1,58 @@
 ---
-title: "Prototypical concept representation"
+title: 'Language Models as Knowledge Embeddings'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Jiaqing Liang
-- Yanghua Xiao
-- Wei Wang
+  - admin
+  - Qianyu He
+  - Jiaqing Liang
+  - Yanghua Xiao
+
+# Author notes (optional)
 author_notes:
 
-date: "2022-06-08T00:00:00Z"
-doi: ""
+
+date: '2022-04-01T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-06-08T00:00:00Z"
+publishDate: '2022-04-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Knowledge and Data Engineering"
-publication_short: ""
+publication: In *IJCAI 2023*
+publication_short: In *IJCAI 2023*
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We propose to apply **L**anguage **M**odels as **K**nowledge **E**mbeddings (**LMKE**). By formulating description-based knowledge embedding (KE) learning with a contrastive learning framework, we obtain improved effectiveness and efficiency and solve problems of prior methods, achieving state-of-the-art performance on KE benchmarks. 
 
-tags:
-- Source Themes
-featured: false
+tags: []
 
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
 # links:
-# - name: ""
-#   url: ""
-url_pdf: https://ieeexplore.ieee.org/abstract/document/9790317/
-# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_dataset: ''
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: ''
-# url_video: ''
+# - name: Custom Link
+#   url: http://example.org
+
+external_link: 'https://www.ijcai.org/proceedings/2022/0318.pdf'
+url_pdf: 'https://www.ijcai.org/proceedings/2022/0318.pdf'
+url_code: 'https://github.com/Neph0s/LMKE'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
@@ -55,22 +60,25 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: example
+slides: example
+
+
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
