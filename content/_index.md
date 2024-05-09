@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: markdown
+    id: news
     content:
       title: News
       subtitle: 
@@ -54,6 +55,7 @@ sections:
     design:
       columns: '2'
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -95,6 +97,7 @@ sections:
     design:
       columns: '2'
   - block: accomplishments
+    id: awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards'
