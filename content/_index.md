@@ -48,9 +48,9 @@ sections:
       title: News
       subtitle: 
       text: |-
-       * ***Apr. 2024*** The first [Survey on Role-Playing Agents](https://arxiv.org/abs/2404.18231) is out! Dive into our comprehensive survey of RPLA technologies, their applications, and the exciting potential for human-AI coexistence. Understanding role-playing paves the way for both personalized assistants and multi-agent society. Check our latest survey on role-playing agent!
-       * ***Apr. 2024*** Check out [SurveyAgent](https://survey-agent.github.io/)! This system stands out by offering a unified platform that supports researchers through various stages of their literature review process, facilitated by a conversational interface that prioritizes user interaction and personalization! Access via homepage and have fun!
-       * ***Feb. 2024*** Check out [InCharacter](https://incharacter.github.io/)! Self-assessments on RPAs are inherently flawed - which heavily depends on LLM’s own understanding of Personality. Instead, our work revolves around interviewing characters in 14 different psychological scales, providing a more objective description of LLM’s role play abilities. Check out this project [demo](https://incharacter.theirstory.cn/)!
+       * ***Apr. 2024***:  The first [Survey on Role-Playing Agents](https://arxiv.org/abs/2404.18231) is out! Dive into our comprehensive survey of RPLA technologies, their applications, and the exciting potential for human-AI coexistence. Understanding role-playing paves the way for both personalized assistants and multi-agent society. Check our latest survey on role-playing agent!
+       * ***Apr. 2024***:  Check out [SurveyAgent](https://survey-agent.github.io/)! This system stands out by offering a unified platform that supports researchers through various stages of their literature review process, facilitated by a conversational interface that prioritizes user interaction and personalization! Access via homepage and have fun!
+       * ***Feb. 2024***:  Check out [InCharacter](https://incharacter.github.io/)! Self-assessments on RPAs are inherently flawed - which heavily depends on LLM’s own understanding of Personality. Instead, our work revolves around interviewing characters in 14 different psychological scales, providing a more objective description of LLM’s role play abilities. Check out this project [demo](https://incharacter.theirstory.cn/)!
 
     design:
       columns: '2'
@@ -168,11 +168,11 @@ sections:
     content:
       title: Contact
       email: xtwang21@m.fudan.edn.cn
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: Neph0s
-          link: 'https://twitter.com/xintao_w'
+      # contact_links:
+      #   - icon: twitter
+      #     icon_pack: fab
+      #     name: Neph0s
+      #     link: 'https://twitter.com/xintao_w'
       # Automatically link email and phone or display as text?
   
     design:

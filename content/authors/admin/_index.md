@@ -51,9 +51,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: xtwang21@m.fudan.edn.cn
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/xintao_w
@@ -71,7 +71,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV(English) - 2024.pdf
+    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -81,7 +81,7 @@ Xintao Wang (王鑫涛) is a third year Ph.D candidate at Fudan University in th
 
 1. **Autonomous Generative Agents**: Developing advanced methods for autonomous, trustworthy, and personalized language agents. This extends towards the exploration of their interactions with multiple agents and real environments.
 
-2. **Cognitive Modeling in Language Models**: Focusing on integrating elements from cognitive science into LLMs, such as self-awareness, emotional perception, social intelligence, theory-of-mind, personalities, etc. The goal is to promote LLMs' understanding of the inner world of themselves and others, hence enabling them to generate more cognitively-aligned and human-like responses.  
+2. **Cognitive Modeling in Language Models**: Focusing on integrating elements from cognitive science into LLMs, such as social intelligence, theory-of-mind, personalities, etc. The goal is to promote LLMs' understanding of the inner world of themselves and people, towards more cognitively-aligned and human-like responses.  
 
-3. **Role-Playing Language Agents**: Targetting at creating AI agents that embody specific characters, including: (1) Agents for fictional characters from literature, films, anime, or games, which are utilized in primarily entertainment applications such as chatbots and interactive games; and (2) Agents that simulate real-world individuals, providing personalized services by mimicking their behaviors.
+3. **Role-Playing Language Agents**: Creating agents that embody specific characters, including: (1) Agents for fictional characters from literature, movies, anime, or games, primarily for entertainment and creativity purpose  such as chatbots and interactive games; and (2) Agents simulating real-world individuals, which provide personalized services by mimicking their behaviors.
 {style="text-align: justify;"}
