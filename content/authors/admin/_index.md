@@ -77,11 +77,9 @@ social:
 highlight_name: true
 ---
 
-Xintao Wang (王鑫涛) is a third year Ph.D candidate at Fudan University in the School of Computer Science, Shanghai, China. He is deeply fascinated with ACG culture, and is devoted to revolutionizing the ACG industry with AI techniques. Hence, his research interests primarily focus on *autonomous generative agents* and their *personas and personalization*, including (but not limited to): 
+Xintao Wang (王鑫涛) is a third year Ph.D candidate at Fudan University in the School of Computer Science. He is deeply fascinated with ACG (Anime, Comics & Games) culture, and is devoted to revolutionizing the ACG industry with AI techniques. Hence, his research interests primarily focus on  *human-like generative agents and their personas*, including (but not limited to):
 
-1. **Autonomous Generative Agents**: Developing advanced methods for autonomous, trustworthy, and personalized language agents. This extends towards the exploration of their interactions with multiple agents and real environments.
+1. **Role-Playing Language Agents**: Targeting at creating AI agents that faithfully represent specific personas, including: (1) Agents for fictional characters from books and ACG, whose applications include virtual companions, games, and content creation; and (2) Agents for real-world individuals, which deeply understand user personas to serve as their digital proxies or personal assistants.
 
-2. **Cognitive Modeling in Language Models**: Focusing on integrating elements from cognitive science into LLMs, such as social intelligence, theory-of-mind, personalities, etc. The goal is to promote LLMs' understanding of the inner world of themselves and people, towards more cognitively-aligned and human-like responses.  
-
-3. **Role-Playing Language Agents**: Creating agents that embody specific characters, including: (1) Agents for fictional characters from literature, movies, anime, or games, primarily for entertainment and creativity purpose  such as chatbots and interactive games; and (2) Agents simulating real-world individuals, which provide personalized services by mimicking their behaviors.
+2. **Cognitive Modeling in Language Models**: Focusing on integrating anthropomorphic cognition into LLMs, such as ego-awareness, social intelligence, personalities, etc. The goal is to promote LLMs’ understanding of the inner world of themselves and others, hence enabling them to generate more cognitively-aligned and human-like responses.
 {style="text-align: justify;"}

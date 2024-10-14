@@ -1,6 +1,7 @@
 ---
 title: 'InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews'
 
+weight: 10
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -23,7 +24,7 @@ authors:
 # Author notes (optional)
 author_notes:
 
-date: '2023-10-01T00:00:00Z'
+date: '2024-05-11T00:00:00Z'
 
 doi: ''
 
@@ -36,8 +37,8 @@ publishDate: '2024-05-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: Arxiv
-publication_short: Arxiv
+publication: ACL 2024
+publication_short: ACL 2024
 
 abstract: Role-playing agents (RPAs), powered by large language models, have emerged as a flourishing field of applications. However, a key challenge lies in assessing whether RPAs accurately reproduce the personas of target characters, namely their character fidelity. Existing methods mainly focus on the knowledge and linguistic patterns of characters. This paper, instead, introduces a novel perspective to evaluate the personality fidelity of RPAs with psychological scales. Overcoming drawbacks of previous self-report assessments on RPAs, we propose InCharacter, namely **In**terviewing **Character** agents for personality tests. Experiments include various types of RPAs and LLMs, covering 32 distinct characters on 14 widely used psychological scales. The results validate the effectiveness of InCharacter in measuring RPA personalities. Then, with InCharacter, we show that state-of-the-art RPAs exhibit personalities highly aligned with the human-perceived personalities of the characters, achieving an accuracy up to 80.7%. Our demo, code, dataset, and results are publicly available.
 

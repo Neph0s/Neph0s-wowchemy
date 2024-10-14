@@ -48,8 +48,14 @@ sections:
       title: News
       subtitle: 
       text: |-
+       * ***Oct. 2024***: 🔔The first [Survey on Role-Playing Agents](https://arxiv.org/abs/2404.18231) has been accepted to TMLR! 
+       * ***Sept. 2024***: 🔔Our Paper [Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works](https://arxiv.org/abs/2404.12726) got accepted to EMNLP 2024, and [Capturing Minds, Not Just Words: Enhancing Role-Playing Language Models with Personality-Indicative Data](https://arxiv.org/abs/2406.18921) got accepted to EMNLP 2024 Findings! 
+       * ***Aug. 2024***: 🇹🇭Attending ACL 2024@Bangkok! 🧙 I will present [InCharacter](https://incharacter.github.io/) while cosplaying as the iconic character *Zhong Li* from Genshin Impact!
+       * ***May. 2024***: 🔔Our [InCharacter](https://incharacter.github.io/) got accepted to ACL 2024, and [Light Up the Shadows](https://aclanthology.org/2024.findings-acl.793/) got accepted to ACL 2024 Findings! 
+       * ***Apr. 2024***:  [InCharacter](https://incharacter.github.io/) will be presented in the poster session in [Agent Workshop @ Carnegie Mellon University](https://cmu-agent-workshop.github.io/posters)! 
        * ***Apr. 2024***:  The first [Survey on Role-Playing Agents](https://arxiv.org/abs/2404.18231) is out! Dive into our comprehensive survey of RPLA technologies, their applications, and the exciting potential for human-AI coexistence. Understanding role-playing paves the way for both personalized assistants and multi-agent society. Check our latest survey on role-playing agent!
        * ***Apr. 2024***:  Check out [SurveyAgent](https://survey-agent.github.io/)! This system stands out by offering a unified platform that supports researchers through various stages of their literature review process, facilitated by a conversational interface that prioritizes user interaction and personalization! Access via homepage and have fun!
+       * ***Mar. 2024***:  As a member of Takway.AI, I'm thrilled to announce that we secured the Second Prize in the InternLM Competitions, hosted by the Shanghai Artificial Intelligence Laboratory!
        * ***Feb. 2024***:  Check out [InCharacter](https://incharacter.github.io/)! Self-assessments on RPAs are inherently flawed - which heavily depends on LLM’s own understanding of Personality. Instead, our work revolves around interviewing characters in 14 different psychological scales, providing a more objective description of LLM’s role play abilities. Check out this project [demo](https://incharacter.theirstory.cn/)!
 
     design:
@@ -67,6 +73,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Intern
+          company: Stepfun
+          company_url: ''
+          company_logo: stepfun
+          location: Shanghai, China
+          date_start: '2024-07-01'
+          date_end: ''
+          description: |2-
+              Responsibilities: (1) Developing foundation models for role-playing language agents, and (2) Constructing high-quality datasets for established character role-playing.  
         - title: Research Leader
           company: Chat-Haruhi-Suzumiya Project
           company_url: ''
@@ -110,6 +125,11 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - date_end: ''
+          date_start: '2024-04-01'
+          description: ''
+          organization: Shanghai Artificial Intelligence Laboratory
+          title: Second Prize of the InternLM Competitions
         - date_end: ''
           date_start: '2022-10-01'
           description: ''
