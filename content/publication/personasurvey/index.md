@@ -1,7 +1,7 @@
 ---
 title: 'From Persona to Personalization: A Survey on Role-Playing Language Agents'
 
-weight: 1
+weight: 9
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

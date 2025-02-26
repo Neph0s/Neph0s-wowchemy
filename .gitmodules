@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Neph0s/Neph0s.github.io.git
+	branch = main
