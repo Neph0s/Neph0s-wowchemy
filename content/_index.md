@@ -48,6 +48,7 @@ sections:
       title: News
       subtitle: 
       text: |-
+       * ***Feb. 2025***: 🔔We are thrilled to introduce [CoSER: Coordinating LLM-Based Persona Simulation of Established Roles](https://arxiv.org/abs/2502.09082), a collection of high-quality authentic dataset, open state-of-the-art models, and nuanced evaluation protocol for role-playing LLMs.
        * ***Oct. 2024***: 🔔The first [Survey on Role-Playing Agents](https://arxiv.org/abs/2404.18231) has been accepted to TMLR! 
        * ***Sept. 2024***: 🔔Our Paper [Evaluating Character Understanding of Large Language Models via Character Profiling from Fictional Works](https://arxiv.org/abs/2404.12726) got accepted to EMNLP 2024, and [Capturing Minds, Not Just Words: Enhancing Role-Playing Language Models with Personality-Indicative Data](https://arxiv.org/abs/2406.18921) got accepted to EMNLP 2024 Findings! 
        * ***Aug. 2024***: 🇹🇭Attending ACL 2024@Bangkok! 🧙 I will present [InCharacter](https://incharacter.github.io/) while cosplaying as the iconic character *Zhong Li* from Genshin Impact!
