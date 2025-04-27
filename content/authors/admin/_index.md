@@ -53,7 +53,7 @@ education:
 social:
   # - icon: envelope
   #   icon_pack: fas
-  #   link: xtwang21@m.fudan.edn.cn
+  #   link: xtwang21@m.fudan.edu.cn
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/xintao_w
